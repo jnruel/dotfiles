@@ -1,0 +1,39 @@
+"*":
+  "atom-beautify":
+    general:
+      _analyticsUserId: "6af77d09-f801-47a7-b15b-1f74d99a4af1"
+  "autoclose-html":
+    forceInline: [
+      "*"
+    ]
+  core:
+    customFileTypes:
+      "text.html.php": [
+        "theme"
+      ]
+    disabledPackages: [
+      "whitespace"
+    ]
+    telemetryConsent: "no"
+  editor:
+    fontSize: 13
+    invisibles: {}
+    preferredLineLength: 120
+    scrollPastEnd: true
+    showIndentGuide: true
+    showInvisibles: true
+    softWrap: true
+    softWrapAtPreferredLineLength: true
+  "exception-reporting":
+    userId: "bc20528d-23d3-e0ff-c795-68720407327c"
+  linter: {}
+  "linter-sass-lint":
+    noConfigDisable: true
+  "linter-ui-default": {}
+  "tabs-to-spaces": {}
+  "todo-show": {}
+  welcome:
+    showOnStartup: false
+  whitespace:
+    ignoreWhitespaceOnCurrentLine: false
+    removeTrailingWhitespace: false
